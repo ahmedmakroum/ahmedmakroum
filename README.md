@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,dart,html,css,vscode,github,figma,flutter,git,c#" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,kali,django,express,firebase,mongodb,c,java,unity,mysql,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=idea,python,kali,django,androidstudio,firebase,mongodb,c,java,unity,mysql,discord" /><br>
 </div>
 
 <br/>
@@ -51,7 +51,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmedmakroum&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
