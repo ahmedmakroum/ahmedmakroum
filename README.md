@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Syndicat Management App**
  
- 🌱 I’m currently learning **Docker, React, Data and Cyber**
+ 🌱 I’m currently learning **Bootstrap web developing, Data and Cyber**
 
 💬 Ask me about **python, java, Firebase... or anything [here](https://github.com/ahmedmakroum/ahmedmakroum/issues)**
 
