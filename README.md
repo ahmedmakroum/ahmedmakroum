@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Consulting Web App**
+ 🔭 I’m currently working on **(multiple) Data Pilpelines**
  
- 🌱 I’m currently learning **Bootstrap web developing, Data and Cyber**
+ 🌱 I’m currently learning **Web developing, Data and Cloud**
 
 💬 Ask me about **python, java, Firebase... or anything [here](https://github.com/ahmedmakroum/ahmedmakroum/issues)**
 
