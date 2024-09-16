@@ -16,9 +16,9 @@
 
 💬 Ask me about **python, java, Firebase... or anything [here](https://github.com/ahmedmakroum/ahmedmakroum/issues)**
 
-⚡ Fun fact **The term "bug" in computer science comes from a literal insect. In 1947, a moth was found stuck in a computer relay, inspiring the term for system glitches.**
+⚡ Fun fact, **The term "bug" in computer science comes from a literal insect. In 1947, a moth was found stuck in a computer relay, inspiring the term for system glitches.**
 
-⚡ Even funnier fact **90% of worlds data was generated in the last 2 years!**
+⚡ Even funnier fact, **90% of worlds data was generated in the last 2 years!**
 
  </div>
  
