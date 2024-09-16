@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **(multiple) Data Pilpelines**
  
- 🌱 I’m currently learning **Web developing, Data and Cloud**
+ 🌱 I’m currently learning **SAP, Data and Cloud**
 
 💬 Ask me about **python, java, Firebase... or anything [here](https://github.com/ahmedmakroum/ahmedmakroum/issues)**
 
