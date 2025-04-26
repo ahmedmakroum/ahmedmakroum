@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ahmed+:);" />
 </h1>
 
-<h3 align="center">A passionate developer from Morocco </h3>
+<h3 align="center">Data Engineer and FullStack web and mobile developer from Morocco </h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **(multiple) Data Pilpelines**
  
- 🌱 I’m currently learning **SAP, Data and Cloud**
+ 🌱 I’m currently learning **Spark, SQL Tuning and Big Data ETL**
 
-💬 Ask me about **python, java, Firebase... or anything [here](https://github.com/ahmedmakroum/ahmedmakroum/issues)**
+💬 Ask me about **ETL, Spring, Flutter... or anything [here](https://github.com/ahmedmakroum/ahmedmakroum/issues)**
 
 ⚡ Fun fact, **The term "bug" in computer science comes from a literal insect. In 1947, a moth was found stuck in a computer relay, inspiring the term for system glitches.**
 
