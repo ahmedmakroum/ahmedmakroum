@@ -18,9 +18,8 @@
 
 ---
 
-## Tech Stack
+## Tech Stack · Languages · Frameworks · Tools
 
-<h2 align="center"> Languages · Frameworks · Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git,supabase,androidstudio,firebase,gcp,aws,azure,linux,docker,kubernetes" />
