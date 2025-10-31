@@ -38,6 +38,6 @@
 
 
 <p align="center" style="font-size: 14px;">
-  &nbsp; &copy; Ahmed Makroum · All rights reserved · aka
+  &nbsp; &copy; Ahmed Makroum · aka
   <a href="https://x.com/agent47_dev" style="color: inherit; text-decoration: none;"><strong>CodeHitman</strong></a>
 </p>
