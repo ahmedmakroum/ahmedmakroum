@@ -22,8 +22,8 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,supabase,androidstudio,firebase,gcp,aws,azure,linux,docker,kubernetes" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,spring,flutter,unity,java,python,c,scala,sqlite,cassandra,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,supabase,gcp,aws,azure,terraform,linux,arch,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=robloxstudio,nodejs,react,nextjs,spring,cs,dotnet,cassandra,postgresql" /><br>
 </div>
 
 ---
