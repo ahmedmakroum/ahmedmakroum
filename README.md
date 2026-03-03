@@ -30,7 +30,6 @@
 
 ## Projects & Links
 
-- Portfolio → [makroum.website](https://www.makroum.website)  
 - Email → [ahmedmakroum3@gmail.com](mailto:ahmedmakroum3@gmail.com)  
 - LinkedIn → [linkedin.com/in/ahmed-makroum](https://www.linkedin.com/in/ahmed-makroum/)
 
