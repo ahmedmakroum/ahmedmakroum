@@ -5,16 +5,16 @@
 
 # Ahmed Makroum
 
-**Data Engineer** · **Full Stack Web & Mobile Developer**
+**Full Stack Web & Mobile Developer** · **Data Engineer**  
 
 ---
 
 ## About
 
-- Building and maintaining data pipelines, automation tools, and full-stack applications  
-- Currently focused on performance tuning in SQL and large-scale ETL systems  
+- Building and maintaining internal applications, web parts, automation tools and full-stack applications  
+- Currently focused on developing SPFx solutions, integrating Microsoft Graph APIs, and designing scalable .NET backends
 - Experienced across backend services, distributed processing, and cross-platform app development  
-- Reach out with questions about Spark, Spring Boot, Flutter, or open an [issue](https://github.com/ahmedmakroum/ahmedmakroum/issues)
+- Reach out with questions about .NET, React, Flutter, or open an [issue](https://github.com/ahmedmakroum/ahmedmakroum/issues)
 
 ---
 
@@ -38,5 +38,4 @@
 
 <p align="center" style="font-size: 14px;">
   &nbsp; &copy; Ahmed Makroum · aka
-  <a href="https://x.com/agent47_dev" style="color: inherit; text-decoration: none;"><strong>CodeHitman</strong></a>
 </p>
