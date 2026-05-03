@@ -28,14 +28,13 @@
 
 ---
 
-## Projects & Links
+## Links
 
 - Email → [ahmedmakroum3@gmail.com](mailto:ahmedmakroum3@gmail.com)  
 - LinkedIn → [linkedin.com/in/ahmed-makroum](https://www.linkedin.com/in/ahmed-makroum/)
 - Website → [ahmedmak.site](https://ahmedmak.site/)
+- Github → [You re already here :)](https://github.com/ahmedmakroum)
 ---
 
 
-<p align="center" style="font-size: 14px;">
-  &nbsp; &copy; Ahmed Makroum · aka
-</p>
+
