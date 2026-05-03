@@ -23,7 +23,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git,supabase,gcp,aws,azure,terraform,linux,arch,docker,kubernetes" />
-    <img src="https://skillicons.dev/icons?i=robloxstudio,nodejs,react,nextjs,spring,cs,dotnet,cassandra,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=robloxstudio,typescript,nodejs,react,astro,nextjs,java,spring,cs,dotnet,cassandra,postgresql" /><br>
 </div>
 
 ---
